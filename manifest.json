@@ -1,6 +1,6 @@
 {
-    "name": "Traffic Lights Enhancement Alpha",
-    "version_number": "0.2.3-alpha",
+    "name": "Traffic_Lights_Enhancement_Alpha",
+    "version_number": "0.2.3",
     "website_url": "https://github.com/slyh/Cities2-Various-Mods",
     "description": "This is an alpha version of TLE containing untested new features for playtesters only.",
     "dependencies": [
