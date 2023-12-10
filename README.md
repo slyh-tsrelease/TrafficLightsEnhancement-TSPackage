@@ -1,4 +1,4 @@
-## Traffic Lights Enhancement
+## Traffic Lights Enhancement Alpha
 
 * Set traffic lights to various predefined signal modes
 * Guide available [here](https://github.com/slyh/Cities2-TrafficLightsEnhancement/tree/main/GUIDE.md)
