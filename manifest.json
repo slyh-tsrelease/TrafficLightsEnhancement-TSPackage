@@ -2,7 +2,7 @@
     "name": "Traffic_Lights_Enhancement_Alpha",
     "version_number": "0.2.5",
     "website_url": "https://github.com/slyh/Cities2-TrafficLightsEnhancement",
-    "description": "This is an alpha version of TLE containing untested features for playtesting only.",
+    "description": "This is an alpha version of TLE containing untested updates for playtesting only.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]
