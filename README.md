@@ -28,7 +28,7 @@ You cannot downgrade the mod to an older version. Cities saved with the new vers
 
 [Twotoolus-FLY-LShst](https://github.com/Twotoolus-FLY-LShst) and [DevelopmentAnything](https://github.com/DevelopmentAnything) for the Korean translation
 
-[Mellaway](https://github.com/Mellaway) for the Russian translation
+[Mellaway](https://github.com/Mellaway) and [BuiIdTheBuilder](https://github.com/BuiIdTheBuilder) for the Russian translation
 
 [TheL0ki](https://github.com/TheL0ki) and [Simanova86](https://github.com/Simanova86) for the German translation
 
