@@ -1,10 +1,16 @@
-## Warning
+## 0.2.6
 
-This update changes the save file format. Although it is intended to be compatible with older saves, cities saved in the new format will not load in v0.2.2 or earlier versions of this mod.
+* Visual improvements to Lane Direction Tool (Ideas from SwiftCobra and mad)
 
-Please back up your saves before upgrading.
+## 0.2.5
 
-## Changes
+* Hovering over junctions no longer shows the default lane arrows
+
+* Fixed an issue where widening the road's median would reset lane settings
+
+* New Lane Direction Tool UI (Idea inspired by Karnor)
+
+## 0.2.3
 
 * Fixed an issue preventing users from setting lane directions at junctions with parallel roads (Credit: beVistum, Bruceyboy24804)
 
