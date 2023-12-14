@@ -1,8 +1,8 @@
 ## 0.2.7
 
-* Updated for compatibility with with version 1.0.18f1
+* Updated for compatibility with version 1.0.18f1
   
-* Updated translations
+* Updated translations (Credits: DevelopmentAnything, BuiIdTheBuilder, and Edou24)
 
 ## 0.2.6
 
