@@ -20,7 +20,7 @@ Harmony: A library for patching, replacing and decorating .NET and Mono methods 
 
 PickledDragon and Rebecca for their insight on the inner workings of the lane system
 
-primeinc for the [guide](https://github.com/slyh/Cities2-TrafficLightsEnhancement/tree/main/GUIDE.md)
+primeinc for the guide
 
 PsykotropyK for the French translation
 
