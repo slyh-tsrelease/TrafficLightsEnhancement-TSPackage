@@ -1,3 +1,9 @@
+## 0.2.7
+
+* Updated for compatibility with with version 1.0.18f1
+  
+* Updated translations
+
 ## 0.2.6
 
 * Visual improvements to Lane Direction Tool (Ideas from SwiftCobra and mad)
