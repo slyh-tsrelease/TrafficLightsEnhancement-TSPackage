@@ -12,26 +12,26 @@ You cannot downgrade the mod to an older version. Cities saved with the new vers
 
 ## Thanks
 
-[Cities2Modding](https://github.com/optimus-code/Cities2Modding): An example mod for starting modding in Cities: Skylines II
+Cities2Modding: An example mod for starting modding in Cities: Skylines II
 
-[BepInEx](https://github.com/BepInEx/BepInEx): Unity / XNA game patcher and plugin framework
+BepInEx: Unity / XNA game patcher and plugin framework
 
-[Harmony](https://github.com/pardeike/Harmony): A library for patching, replacing and decorating .NET and Mono methods during runtime
+Harmony: A library for patching, replacing and decorating .NET and Mono methods during runtime
 
-[PickledDragon](https://github.com/EisbarGFX) and [Rebecca](https://github.com/slash-under) for their insight on the inner workings of the lane system
+PickledDragon and Rebecca for their insight on the inner workings of the lane system
 
-[primeinc](https://github.com/primeinc) for the [guide](https://github.com/slyh/Cities2-TrafficLightsEnhancement/tree/main/GUIDE.md)
+primeinc for the [guide](https://github.com/slyh/Cities2-TrafficLightsEnhancement/tree/main/GUIDE.md)
 
-[PsykotropyK](https://github.com/PsykotropyK) for the French translation
+PsykotropyK for the French translation
 
-[SuperYYT](https://github.com/SuperYYT) for the Simplified Chinese translation
+SuperYYT for the Simplified Chinese translation
 
-[Twotoolus-FLY-LShst](https://github.com/Twotoolus-FLY-LShst) and [DevelopmentAnything](https://github.com/DevelopmentAnything) for the Korean translation
+Twotoolus-FLY-LShst and DevelopmentAnything for the Korean translation
 
-[Mellaway](https://github.com/Mellaway) and [BuiIdTheBuilder](https://github.com/BuiIdTheBuilder) for the Russian translation
+Mellaway and BuiIdTheBuilder for the Russian translation
 
-[TheL0ki](https://github.com/TheL0ki) and [Simanova86](https://github.com/Simanova86) for the German translation
+TheL0ki and Simanova86 for the German translation
 
-[macoto-hino](https://github.com/macoto-hino) for the Japanese translation
+macoto-hino for the Japanese translation
 
-[djotabr](https://github.com/djotabr) for the Portuguese translation
+djotabr for the Portuguese translation
