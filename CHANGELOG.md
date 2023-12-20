@@ -1,7 +1,11 @@
+## 0.2.8
+
+* Removed unnecessary system update
+
 ## 0.2.7
 
 * Updated for compatibility with version 1.0.18f1
-  
+
 * Updated translations (Credits: DevelopmentAnything, BuiIdTheBuilder, and Edou24)
 
 ## 0.2.6
