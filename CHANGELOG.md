@@ -1,6 +1,6 @@
 ## 0.2.8
 
-* Removed unnecessary system update
+* Removed unnecessary system updates
 
 ## 0.2.7
 
