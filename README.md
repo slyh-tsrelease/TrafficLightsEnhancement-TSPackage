@@ -35,3 +35,7 @@ TheL0ki and Simanova86 for the German translation
 macoto-hino for the Japanese translation
 
 djotabr for the Portuguese translation
+
+angel84326 and the Taiwanese Cities: Skylines community for the Traditional Chinese translation
+
+Jord38 for the Dutch translation
