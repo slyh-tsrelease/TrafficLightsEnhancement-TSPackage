@@ -1,3 +1,15 @@
+## 0.2.9
+
+* Fixed an issue where opening the main panel with a two-lane road resulted in an error
+
+* Slightly smarter default lane configuration
+
+* Improved lane alignment on curves (Credit: beVistum)
+
+* Draggable main panel (Idea: dj69)
+
+* Updated translations (see the Readme for credits)
+
 ## 0.2.8
 
 * Removed unnecessary system updates
