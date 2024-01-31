@@ -18,7 +18,7 @@ Please back up your saves before upgrading.
 
 ### 0.2.18
 
-* Updated for compatibility with version 1.0.19f1
+* Updated to be compatible with version 1.0.19f1
 
 ### 0.2.16, 0.2.17
 
