@@ -1,16 +1,20 @@
 ## Traffic Lights Enhancement Alpha
 
 * Set traffic lights to various predefined signal modes
-* Guide available [here](https://github.com/slyh/Cities2-TrafficLightsEnhancement/tree/main/GUIDE.md)
-* Compatible with version 1.0.18f1
+* Guide available [here](https://github.com/slyh/Cities2-TrafficLightsEnhancement/tree/master/GUIDE.md)
+* Compatible with version 1.0.19f1
 
-The mod will save extra data to your saves, which it relies on to provide additional functionality. Generally, traffic lights and junctions will revert to vanilla settings when the mod is removed, but this cannot be guaranteed.
+This mod stores extra data in your saves to provide additional functionality. Once the mod is removed, traffic lights and junctions should revert to default settings when a road update is triggered, but this cannot be guaranteed.
 
-You cannot downgrade the mod to an older version. Cities saved with the new version are not compatible with previous versions.
+You cannot downgrade this mod to an older version. Cities saved with the new version are not compatible with previous versions.
+
+If you found any issues within the mod, please report them on [the issue tracker](https://github.com/slyh/Cities2-TrafficLightsEnhancement/issues).
 
 **Warning: These modifications are highly experimental. Your game may crash more frequently, and your save files could be corrupted.**
 
-## Thanks
+## Acknowledgements
+
+This mod would not have reached its current stage without help from the following people and projects:
 
 Cities2Modding: An example mod for starting modding in Cities: Skylines II
 
@@ -18,24 +22,30 @@ BepInEx: Unity / XNA game patcher and plugin framework
 
 Harmony: A library for patching, replacing and decorating .NET and Mono methods during runtime
 
-PickledDragon and Rebecca for their insight on the inner workings of the lane system
+PickledDragon and Rebecca for their insights into the lane system's inner workings.
 
-primeinc for the guide
+Primeinc and Windows200000 for the guide.
 
-PsykotropyK and Edou24 for the French translation
+Additionally, gratitude is extended to the individuals listed below for their translation contributions:
 
-SuperYYT for the Simplified Chinese translation
+* Chinese (Simplified): SuperYYT
 
-Twotoolus-FLY-LShst and DevelopmentAnything for the Korean translation
+* Chinese (Traditional): angel84326 and the Taiwanese Cities: Skylines community
 
-Mellaway and BuiIdTheBuilder for the Russian translation
+* Dutch: Jord38 and Randy von der Weide
 
-TheL0ki and Simanova86 for the German translation
+* French: PsykotropyK, Edou24 and Clark
 
-macoto-hino for the Japanese translation
+* German: TheL0ki and Simanova86
 
-djotabr for the Portuguese translation
+* Japanese: macoto-hino
 
-angel84326 and the Taiwanese Cities: Skylines community for the Traditional Chinese translation
+* Korean: Twotoolus-FLY-LShst and DevelopmentAnything
 
-Jord38 for the Dutch translation
+* Portuguese (Brazil): djotabr and lucianoedipo
+
+* Russian: Mellaway and BuiIdTheBuilder
+
+* Spanish: Fabio Rodriguez
+
+Finally, heartfelt thanks to all the players who have submitted bug reports and suggestions.
