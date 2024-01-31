@@ -1,3 +1,19 @@
+## Warning
+
+Cities saved in v0.2.18 will not load in v0.2.9 or earlier versions of this mod.
+
+Please back up your saves before upgrading.
+
+## Known Issues
+
+* Lane Direction Tool
+
+   * Does not support merge lanes
+
+   * Does not support roundabouts
+
+   * When an entire direction is banned, some traffic may still proceed through the banned direction
+
 ## 0.2.18
 
 * Updated for compatibility with version 1.0.19f1
@@ -93,13 +109,3 @@
 * Fixed an issue preventing users from setting lane directions at junctions with parallel roads (Credit: beVistum, Bruceyboy24804)
 
 * Updated to be compatible with version 1.0.15f1
-
-## Known Issues
-
-* Lane Direction Tool
-
-   * Does not support merge lanes
-
-   * Does not support roundabouts
-
-   * When an entire direction is banned, some traffic may still proceed through the banned direction
