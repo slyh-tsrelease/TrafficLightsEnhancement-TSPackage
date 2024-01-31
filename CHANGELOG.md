@@ -14,11 +14,13 @@ Please back up your saves before upgrading.
 
    * When an entire direction is banned, some traffic may still proceed through the banned direction
 
-## Changes: 0.2.18
+## Changes
+
+### 0.2.18
 
 * Updated for compatibility with version 1.0.19f1
 
-## Changes: 0.2.16, 0.2.17
+### 0.2.16, 0.2.17
 
 * Fixed issue #75: Vehicles may behave irrationally when going straight is banned at three-way junctions (Credit: HarryBotter2333)
 
@@ -26,15 +28,15 @@ Please back up your saves before upgrading.
 
 * Portuguese (Brazil) translation update (Credit: lucianoedipo)
 
-## Changes: 0.2.15
+### 0.2.15
 
 * Fixed issue #72: The game crashes when replacing roads (Credit: GIS-PuppetMaster)
 
-## Changes: 0.2.12
+### 0.2.12
 
 * Vehicles turning on red will no longer extend the current traffic light phase
 
-## Changes: 0.2.11
+### 0.2.11
 
 * Pedestrian Traffic Lights
 
@@ -48,7 +50,7 @@ Please back up your saves before upgrading.
 
 * Added Spanish translation (Credit: Fabio Rodriguez)
 
-## Changes: 0.2.10
+### 0.2.10
 
 * Changed save format
 
@@ -70,7 +72,7 @@ Please back up your saves before upgrading.
 
 * Updated translations (See the Readme for credits)
 
-## Changes: 0.2.9
+### 0.2.9
 
 * Fixed an issue where opening the main panel with a two-lane road resulted in an error
 
@@ -82,21 +84,21 @@ Please back up your saves before upgrading.
 
 * Updated translations (see the Readme for credits)
 
-## Changes: 0.2.8
+### 0.2.8
 
 * Removed unnecessary system updates
 
-## Changes: 0.2.7
+### 0.2.7
 
 * Updated for compatibility with version 1.0.18f1
 
 * Updated translations (Credits: DevelopmentAnything, BuiIdTheBuilder, and Edou24)
 
-## Changes: 0.2.6
+### 0.2.6
 
 * Visual improvements to Lane Direction Tool (Ideas from SwiftCobra and mad)
 
-## Changes: 0.2.5
+### 0.2.5
 
 * Hovering over junctions no longer shows the default lane arrows
 
@@ -104,7 +106,7 @@ Please back up your saves before upgrading.
 
 * New Lane Direction Tool UI (Idea inspired by Karnor)
 
-## Changes: 0.2.3
+### 0.2.3
 
 * Fixed an issue preventing users from setting lane directions at junctions with parallel roads (Credit: beVistum, Bruceyboy24804)
 
