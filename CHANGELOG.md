@@ -1,3 +1,59 @@
+## 0.2.18
+
+* Updated for compatibility with version 1.0.19f1
+
+## 0.2.16, 0.2.17
+
+* Fixed issue #75: Vehicles may behave irrationally when going straight is banned at three-way junctions (Credit: HarryBotter2333)
+
+  * Please turn traffic lights off and on at the affected junctions to apply the fix
+
+* Portuguese (Brazil) translation update (Credit: lucianoedipo)
+
+## 0.2.15
+
+* Fixed issue #72: The game crashes when replacing roads (Credit: GIS-PuppetMaster)
+
+## 0.2.12
+
+* Vehicles turning on red will no longer extend the current traffic light phase
+
+## 0.2.11
+
+* Pedestrian Traffic Lights
+
+  * The "Allow Turning on Red" option will no longer prevent pedestrian traffic lights from turning green
+
+  * Fixed issue #54: Pedestrian traffic lights remain green when vehicles turn right (in LHT) or left (in RHT) (Credit: adalinesimonian)
+
+* Lane Direction Tool
+
+  * Fixed issue #66: A lane alignment issue in RHT (Credit: Stripedog)
+
+* Added Spanish translation (Credit: Fabio Rodriguez)
+
+## 0.2.10
+
+* Changed save format
+
+  * Cities saved in this or newer versions will not load in v0.2.9 or earlier versions of this mod.
+
+  * Please back up your saves before upgrading.
+
+* Added shortcut Ctrl-S to save settings (Idea: Biffa)
+
+* Vehicles will now give way when turning on red
+
+  * Please turn existing traffic lights off and on for this to take effect
+
+* New options: "Give Way to Oncoming Vehicles" and "Pedestrian Phase Duration"
+
+  * Refer to the guide for details
+
+* Improved update handling (Credit: PickledDragon)
+
+* Updated translations (See the Readme for credits)
+
 ## 0.2.9
 
 * Fixed an issue where opening the main panel with a two-lane road resulted in an error
@@ -47,7 +103,3 @@
    * Does not support roundabouts
 
    * When an entire direction is banned, some traffic may still proceed through the banned direction
-
-* Pedestrian traffic lights may not operate as expected when the "Always Green Left/Right-Turns" option is active
-
-   * This option can prevent some pedestrian signals from turning green, so an exclusive pedestrian phase has been added to every cycle
