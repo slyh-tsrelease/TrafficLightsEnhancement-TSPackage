@@ -1,8 +1,8 @@
 {
     "name": "Traffic_Lights_Enhancement_Alpha",
-    "version_number": "0.2.9",
+    "version_number": "0.2.18",
     "website_url": "https://github.com/slyh/Cities2-TrafficLightsEnhancement",
-    "description": "This is an alpha version of TLE containing untested updates for playtesting only.",
+    "description": "Advanced traffic lights for Cities: Skylines II",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]
