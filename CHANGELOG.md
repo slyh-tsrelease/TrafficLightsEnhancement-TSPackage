@@ -16,6 +16,12 @@ Please back up your saves before upgrading.
 
 ## Changes
 
+### 0.2.19
+
+* Updated to be compatible with version 1.1.0f1
+
+* Translation updates (Credits: TwotoolusFLY_LSh.st, karmel68, Alex Motor, starrysum, Mark)
+
 ### 0.2.18
 
 * Updated to be compatible with version 1.0.19f1
