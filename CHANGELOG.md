@@ -1,6 +1,6 @@
 ## Warning
 
-Cities saved in v0.2.18 will not load in v0.2.9 or earlier versions of this mod.
+Cities saved in v0.2.18 or later will not load in v0.2.9 or earlier versions of this mod.
 
 Please back up your saves before upgrading.
 
